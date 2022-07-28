@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:52:21 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090341472
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090295396
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090317953
+https\://repo.spring.io/snapshot/.lastUpdated=1639090303652
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact io.cucumber\:messages\:jar\:13.1.0 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/io/cucumber/messages/13.1.0/messages-13.1.0.jar 502 Bad Gateway

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 14 13:54:27 BRT 2021
+jaxb-api-2.3.1.jar>central=
+jaxb-api-2.3.1-sources.jar>central=
+jaxb-api-2.3.1.pom>central=

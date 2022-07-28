@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 15 19:52:08 BRT 2021
+feign-slf4j-10.12.pom>central=
+feign-slf4j-10.12.jar>central=
+feign-slf4j-10.12-sources.jar>central=

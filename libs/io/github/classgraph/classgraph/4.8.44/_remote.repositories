@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 05 20:24:54 BRT 2021
+classgraph-4.8.44-sources.jar>central=
+classgraph-4.8.44.pom>central=
+classgraph-4.8.44.jar>central=

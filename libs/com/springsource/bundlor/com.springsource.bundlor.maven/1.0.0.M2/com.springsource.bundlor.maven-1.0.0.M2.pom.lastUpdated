@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 06 12:59:24 BRT 2022
+http\://0.0.0.0/.error=Could not transfer artifact com.springsource.bundlor\:com.springsource.bundlor.maven\:pom\:1.0.0.M2 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-repo (http\://repo1.maven.org/maven2/, default, releases+snapshots), com.springsource.repository.bundles.milestone (http\://repository.springsource.com/maven/bundles/milestone, default, releases+snapshots)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1651852764760
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1651852763988
+https\://repo.maven.apache.org/maven2/.error=

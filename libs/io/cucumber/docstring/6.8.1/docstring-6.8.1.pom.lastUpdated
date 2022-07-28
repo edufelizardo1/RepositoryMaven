@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:50:33 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090233003
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090230936
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090232471
+https\://repo.spring.io/snapshot/.lastUpdated=1639090231484
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact io.cucumber\:docstring\:pom\:6.8.1 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/io/cucumber/docstring/6.8.1/docstring-6.8.1.pom 502 Bad Gateway

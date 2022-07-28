@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:51:27 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090287044
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090284712
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090286402
+https\://repo.spring.io/snapshot/.lastUpdated=1639090285330
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.xmlunit\:xmlunit-parent\:pom\:2.5.1 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/xmlunit/xmlunit-parent/2.5.1/xmlunit-parent-2.5.1.pom 502 Bad Gateway

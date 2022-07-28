@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:48:55 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090135491
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090133131
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090134752
+https\://repo.spring.io/snapshot/.lastUpdated=1639090133717
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.springframework\:spring-beans\:pom\:5.0.4.RELEASE from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.pom 502 Bad Gateway

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 04 21:51:20 BRT 2021
+spring-tx-5.0.5.RELEASE-sources.jar>central=
+spring-tx-5.0.5.RELEASE.jar>central=
+spring-tx-5.0.5.RELEASE.pom>central=

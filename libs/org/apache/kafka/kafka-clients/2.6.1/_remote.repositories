@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jun 13 19:38:10 BRT 2022
+kafka-clients-2.6.1.pom>central=
+kafka-clients-2.6.1.jar>central=
+kafka-clients-2.6.1-test.jar>central=

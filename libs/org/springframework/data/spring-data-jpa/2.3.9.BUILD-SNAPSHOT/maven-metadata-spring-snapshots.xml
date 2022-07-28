@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.data</groupId>
+  <artifactId>spring-data-jpa</artifactId>
+  <version>2.3.9.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20210413.182350</timestamp>
+      <buildNumber>45</buildNumber>
+    </snapshot>
+    <lastUpdated>20210413182411</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>2.3.9.BUILD-20210413.182350-45</value>
+        <updated>20210413182350</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.3.9.BUILD-20210413.182350-45</value>
+        <updated>20210413182350</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.3.9.BUILD-20210413.182350-45</value>
+        <updated>20210413182350</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.3.9.BUILD-20210413.182350-45</value>
+        <updated>20210413182350</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

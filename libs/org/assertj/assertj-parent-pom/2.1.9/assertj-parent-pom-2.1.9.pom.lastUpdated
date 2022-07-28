@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:51:07 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090267098
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090264773
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090266465
+https\://repo.spring.io/snapshot/.lastUpdated=1639090265362
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.assertj\:assertj-parent-pom\:pom\:2.1.9 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/assertj/assertj-parent-pom/2.1.9/assertj-parent-pom-2.1.9.pom 502 Bad Gateway

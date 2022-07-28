@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 18 20:23:50 BRT 2021
+reactor-netty-core-1.0.7-sources.jar>central=
+reactor-netty-core-1.0.7.jar>central=
+reactor-netty-core-1.0.7.pom>central=

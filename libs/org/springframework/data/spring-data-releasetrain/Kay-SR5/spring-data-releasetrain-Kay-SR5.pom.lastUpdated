@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:48:13 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090093329
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090091091
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090092743
+https\://repo.spring.io/snapshot/.lastUpdated=1639090091693
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.springframework.data\:spring-data-releasetrain\:pom\:Kay-SR5 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/springframework/data/spring-data-releasetrain/Kay-SR5/spring-data-releasetrain-Kay-SR5.pom 502 Bad Gateway

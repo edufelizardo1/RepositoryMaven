@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Dec 09 19:52:21 BRT 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1639090341472
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1639090295411
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1639090317968
+https\://repo.spring.io/snapshot/.lastUpdated=1639090303652
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact io.cucumber\:cucumber-expressions\:jar\:10.3.0 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/io/cucumber/cucumber-expressions/10.3.0/cucumber-expressions-10.3.0.jar 502 Bad Gateway

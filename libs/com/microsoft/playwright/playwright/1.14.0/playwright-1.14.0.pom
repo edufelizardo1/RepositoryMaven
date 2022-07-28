@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.microsoft.playwright</groupId>
+    <artifactId>parent-pom</artifactId>
+    <version>1.14.0</version>
+  </parent>
+
+  <artifactId>playwright</artifactId>
+  <name>Playwright - Main Library</name>
+  <description>Java library to automate Chromium, Firefox and WebKit with a single API.
+    Playwright is built to enable cross-browser web automation that is ever-green, capable,
+    reliable and fast.
+
+    This is the main package that provides Playwright client.
+  </description>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-source-plugin</artifactId>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-javadoc-plugin</artifactId>
+        <configuration>
+          <subpackages>com.microsoft.playwright</subpackages>
+          <excludePackageNames>com.microsoft.playwright.impl</excludePackageNames>
+          <additionalOptions>--allow-script-in-comments</additionalOptions>
+          <failOnError>false</failOnError>
+        </configuration>
+        <executions>
+          <execution>
+            <id>attach-javadocs</id>
+            <goals>
+              <goal>jar</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.java-websocket</groupId>
+      <artifactId>Java-WebSocket</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-engine</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.microsoft.playwright</groupId>
+      <artifactId>driver</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.microsoft.playwright</groupId>
+      <artifactId>driver-bundle</artifactId>
+    </dependency>
+  </dependencies>
+</project>
